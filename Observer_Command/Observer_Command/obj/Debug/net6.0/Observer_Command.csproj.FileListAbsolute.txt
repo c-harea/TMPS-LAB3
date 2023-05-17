@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\bin\Debug\net6.0\Observer_Command.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\bin\Debug\net6.0\Observer_Command.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\bin\Debug\net6.0\Observer_Command.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\bin\Debug\net6.0\Observer_Command.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\bin\Debug\net6.0\Observer_Command.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\refint\Observer_Command.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\Observer_Command.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Observer_Command\obj\Debug\net6.0\ref\Observer_Command.dll

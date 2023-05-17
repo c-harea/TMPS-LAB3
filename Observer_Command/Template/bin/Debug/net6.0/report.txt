@@ -1,0 +1,8 @@
+Expense Tracker Report
+-----------------------
+Transactions:
+Income: Work - 1 021,00 ₽
+
+Total Expenses: 0,00 ₽
+Total Income: 1 021,00 ₽
+Net Balance: 1 021,00 ₽

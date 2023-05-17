@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\bin\Debug\net6.0\Visitor_Iterator.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\bin\Debug\net6.0\Visitor_Iterator.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\bin\Debug\net6.0\Visitor_Iterator.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\bin\Debug\net6.0\Visitor_Iterator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\bin\Debug\net6.0\Visitor_Iterator.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\refint\Visitor_Iterator.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\Visitor_Iterator.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab3\Observer_Command\Visitor_Iterator\obj\Debug\net6.0\ref\Visitor_Iterator.dll
